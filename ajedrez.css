@@ -1,0 +1,39 @@
+body{
+	background-image:url("fondo.jpg");
+}
+
+
+
+
+.negro{
+  background-color: black;
+  color:white;
+}
+
+.x{
+	background-image:url("caballo.png");
+	background-size:40px 40px;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+td{
+  width: 44px;
+  height: 44px;
+}
+
+h1{
+	text-align:center;
+	color:white;
+	text-shadow:1px 1px 1px black;
+	font-family:Algerian;
+}
+
+p{
+	font-family:MV Boli;
+}
+
+table{
+	background-color:white;
+	margin:auto;
+}
